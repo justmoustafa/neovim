@@ -10,7 +10,8 @@ set mouse=
 :nmap ; :
 :nmap ,p "0p 
 
-autocmd CursorHold,CursorHoldI * update
+""autosave
+"autocmd CursorHold,CursorHoldI * update
 
 :augroup numbertoggle
 :  autocmd!
